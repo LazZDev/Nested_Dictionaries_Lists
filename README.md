@@ -1,2 +1,2 @@
 # Nested_Dictionaries-Lists
-Added comments to the code, in order to explain what it's doing. 
+Code includes comments in order to help explain the purpose or functionality of particular parts of the code.
